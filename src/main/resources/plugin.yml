@@ -1,0 +1,13 @@
+name: MinecraftPing
+version: '${version}'
+main: de.moritzhuber.minecraftping.MinecraftPing
+api-version: 1.19
+authors: [ Moritz ]
+description: A Plugin to Ping Locations to other users
+
+commands:
+  minecraftping:
+    description: reload config
+    usage: /<command>
+    permission: minecraftping.command.minecraftping
+    aliases: [ mcping ]

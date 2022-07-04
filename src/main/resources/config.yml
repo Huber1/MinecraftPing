@@ -1,0 +1,11 @@
+
+# Time until the double-sneak is reset in milliseconds
+# a longer time means more unintentional triggers
+time-to-trigger: 300
+
+# How many seconds should the beam be visible
+time-show-beam: 10
+
+# Number of particles to spawn each tick. decrease if performance is very bad
+# values lower than 150 can be difficult to see from farther away
+number-of-particles: 250
