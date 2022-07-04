@@ -1,7 +1,7 @@
 name: MinecraftPing
 version: '${version}'
 main: de.moritzhuber.minecraftping.MinecraftPing
-api-version: 1.19
+api-version: 1.18
 authors: [ Moritz ]
 description: A Plugin to Ping Locations to other users
 
