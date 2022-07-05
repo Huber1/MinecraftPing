@@ -7,3 +7,6 @@ Due to a technical limitation the beam is created using particles (Plugins are s
 Just look at where you want to ping and sneak fast two times in a row
 
 To install just put the latest [release jar](https://github.com/Huber1/MinecraftPing/releases) into your plugins folder and restart the server to make it work
+
+## Versions
+- 1.18, 1.19
